@@ -4,3 +4,5 @@
 Fork this repo and add a new game folder, it must not be a target of massive DMCA takedowns (ex: Eaglercraft) and must work.
 After uploading your game, create a Pull Request and it will be reviewed before being pushed here.
 ```
+
+a lazy way of doing this, you shouldnt do this
